@@ -37,10 +37,10 @@
 ![ww](images/f1.png)
 
 * Función para hallar el continente de un país
-![ww](images/f2.png)
+![ww](images/f21.png)
 
 * Casos totales, recuperados y fallecidos por continente
-![ww](images/f21.png)
+![ww](images/f22.png)
 
 * Casos totales, recuperados y fallecidos en el mundo
 ![ww](images/consultas.png)

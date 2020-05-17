@@ -52,43 +52,42 @@
   
 ## Visualizacíon 
 
+* Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
+![col](images/co3.png)
 
-   * Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
-    ![col](images/co3.png)  
-  
-   * Distribucion de los casos por la atención actual
-    ![col](images/co6.png)  
+* Distribucion de los casos por la atención actual
+![col](images/co6.png)  
 
-     
-   * Curva por casos presentados cada mes(sin acumular casos)
-    ![col](images/co7.png)
-  
-   * Curva de los casos fallecidos y casos recuperados , respecto a la curva de casos totales
-    ![col](images/co8.png)
-  
-   * Casos totales reportados por mes, acumulados
-    ![col](images/co9.png)
-	
-   * Distribucion del tipo de caso
-    ![col](images/co11.png)
-		
-   * Ciudades de donde provienen los casos importados 
-    ![col](images/co12.png)
-  
-   * Estadistica de los casos fallecidos y recuperados por cada género
-    ![col](images/co13.png)
-		
-   * Distribución de los estados de los pacientes contagiados
-    ![col](images/co14.png)
-    
-   * Distribucion de los fallecidos por género
-    ![col](images/co4.png)
-		
-   * Distribucion de los casos totales por género
-    ![col](images/co5.png)
-		
-   * Casos reportados por edades
-    ![col](images/co10.png)
+* Curva por casos presentados cada mes(sin acumular casos)
+![col](images/co7.png)
+
+* Curva de los casos fallecidos y casos recuperados , respecto a la curva de casos totales
+![col](images/co8.png)
+
+* Casos totales reportados por mes, acumulados
+![col](images/co9.png)
+
+* Distribucion del tipo de caso
+![col](images/co11.png)
+
+* Ciudades de donde provienen los casos importados 
+![col](images/co12.png)
+
+* Estadistica de los casos fallecidos y recuperados por cada género
+![col](images/co13.png)
+
+* Distribución de los estados de los pacientes contagiados
+![col](images/co14.png)
+
+
+* Distribucion de los fallecidos por género
+![col](images/co4.png)
+
+* Distribucion de los casos totales por género
+![col](images/co5.png)
+
+* Casos reportados por edades
+![col](images/co10.png)
   
 ## Notebook, EMR, Spark
 

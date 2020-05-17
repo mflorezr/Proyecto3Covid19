@@ -1,4 +1,4 @@
-# Analisis de Colombia vs el Mundo
+# Análisis de Colombia vs el Mundo
 
 # ST0263 Tópicos especiales en telemática
 
@@ -56,3 +56,7 @@
  
   
   
+## NOTEBOOKS, EMR, SPARK
+
+Para mas detalle acerca de las consultas, funciones y código de como se obtuvieron las graficas y visualizaciones ingresar al notebook:
+[covid19mundovscolombia.ipynb](covid19mundovscolombia.ipynb)

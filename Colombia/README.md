@@ -68,7 +68,9 @@
 ![col](images/co9.png)
 
 * Distribucion del tipo de caso
+-------------------------------------
 ![col](images/co11.png)
+-------------------------------------
 
 * Ciudades de donde provienen los casos importados 
 ![col](images/co12.png)
@@ -78,7 +80,6 @@
 
 * Distribución de los estados de los pacientes contagiados
 ![col](images/co14.png)
-
 
 * Distribucion de los casos totales por género
 ![col](images/co5.png)

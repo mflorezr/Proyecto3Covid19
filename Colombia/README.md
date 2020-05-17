@@ -53,10 +53,10 @@
 ## Visualizacíon 
   
   * Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
-  ![col](images/co3.png)
+    ![col](images/co3.png)
   
   * Distribucion de los fallecidos por género
-  ![col](images/co4.png)
+    ![col](images/co4.png)
   
   * Distribucion de los casos totales por género
   ![col](images/co5.png)
@@ -91,4 +91,4 @@
 ## Notebook, EMR, Spark
 
 Para ver mas detalladamente las consultas, funciones, y el origen de las graficas y visualizaciones acceda al notebook:
-[MRjob exercise](mrjob)
+[covid19colombia.ipynb](covid19colombia.ipynb)

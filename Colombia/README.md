@@ -52,25 +52,26 @@
   
 ## Visualizacíon 
 
-	* Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
-    ![col](images/co3.png)  
+
+   * Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
+   ![col](images/co3.png)  
     
-	* Distribucion de los fallecidos por género
-    ![col](images/co4.png)
+   * Distribucion de los fallecidos por género
+   ![col](images/co4.png)
   
-	* Distribucion de los casos por la atención actual
-    ![col](images/co6.png)  
+   * Distribucion de los casos por la atención actual
+   ![col](images/co6.png)  
     
-	* Curva por casos presentados cada mes(sin acumular casos)
-    ![col](images/co7.png)
+   * Curva por casos presentados cada mes(sin acumular casos)
+   ![col](images/co7.png)
   
-	* Curva de los casos fallecidos y casos recuperados , respecto a la curva de casos totales
-    ![col](images/co8.png)
+   * Curva de los casos fallecidos y casos recuperados , respecto a la curva de casos totales
+   ![col](images/co8.png)
   
-	* Casos totales reportados por mes, acumulados
-    ![col](images/co9.png)
+   * Casos totales reportados por mes, acumulados
+   ![col](images/co9.png)
 	
-	* Distribucion del tipo de caso
+   * Distribucion del tipo de caso
     ![col](images/co11.png)
 		
 	* Ciudades de donde provienen los casos importados 

@@ -14,13 +14,15 @@
   
   * Comparacion de distribucion de los casos en Colombia vs el mundo: Recuperados, Fallecidos y aún activos
     1. Colombia
+    
+    ---------------------------------------
     ![cvm](images/cvm3.PNG)
+    
   
-  ---------------------------------------
     2. El mundo
+    -------------------------------
     ![cvm](images/cvm4.PNG)
 
-  -----------------------------------------
   
   * Comparativa de Colombia vs El Top de los 5 Paises mas recuperados del mundo
   ![cvm](images/cvm5.PNG)
@@ -44,12 +46,14 @@
   
   * Comparativas de Colombia vs el mundo en los casos reportados en los primeros 5 meses
     1. El mundo: 
+      -------------------------------------------
     ![cvm](images/cvm10.PNG)
     
-  -------------------------------------------
+
     2. Colombia:
-    ![cvm](images/cv11.PNG)
-    
+       
   -------------------------------------------
+    ![cvm](images/cv11.PNG)
+ 
   
   

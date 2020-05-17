@@ -62,11 +62,6 @@
   
   
   
-  * Distribucion de los casos totales por género
-    ![col](images/co5.png)
-  
-  
-  
   * Distribucion de los casos por la atención actual
     ![col](images/co6.png)
   
@@ -87,10 +82,6 @@
   
   
   
-  * Casos reportados por edades
-    ![col](images/co10.png)
-  
-  
   
   * Distribucion del tipo de caso
     ![col](images/co11.png)
@@ -109,6 +100,18 @@
   
   * Distribución de los estados de los pacientes contagiados
     ![col](images/co14.png)
+    
+    
+    
+    
+   * Distribucion de los casos totales por género
+    ![col](images/co5.png)
+  
+  
+  
+  
+   * Casos reportados por edades
+    ![col](images/co10.png)
   
 ## Notebook, EMR, Spark
 

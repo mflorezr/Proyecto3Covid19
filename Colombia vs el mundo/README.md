@@ -12,16 +12,16 @@
      https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
      
      
-## Visualizacion y comparación 
+## Visualización y comparación 
   
   * Cargamos todos los datasets almacenados en S3
  ![cvm](images/cvm1.PNG)
 
-  * Comparativa de Colombia vs El Top de los 5 Paises mas infectados del mundo
+  * Comparativa de Colombia vs El Top de los 5 Países más infectados del mundo
    ![cvm](images/cvm2.PNG)
   -----------------------------------------
   
-  * Comparacion de distribucion de los casos en Colombia vs el mundo: Recuperados, Fallecidos y aún activos
+  * Comparación de distribución de los casos en Colombia vs el mundo: Recuperados, Fallecidos y aún activos
     1. Colombia
     
     ---------------------------------------
@@ -33,23 +33,23 @@
     ![cvm](images/cvm4.PNG)
 
   
-  * Comparativa de Colombia vs El Top de los 5 Paises mas recuperados del mundo
+  * Comparativa de Colombia vs El Top de los 5 Países más recuperados del mundo
   ![cvm](images/cvm5.PNG)
   -------------------------------------------
   
-  * Comparativa de Colombia vs El Top de los 5 Paises con mas muertes del mundo
+  * Comparativa de Colombia vs El Top de los 5 Países con más muertes del mundo
   ![cvm](images/cvm6.PNG)
   -------------------------------------------
   
-  * Comparativa de Colombia vs El Top de los 10 Paises menos infectados del mundo
+  * Comparativa de Colombia vs El Top de los 10 Países menos infectados del mundo
   ![cvm](images/cvm7.PNG)
   -------------------------------------------
   
-  * Comparativa de Colombia vs El Top de los 10 Paises con menos muertes del mundo
+  * Comparativa de Colombia vs El Top de los 10 Países con menos muertes del mundo
   ![cvm](images/cvm8.PNG)
   -------------------------------------------
   
-  * Comparativa de Colombia vs El Top de los 10 Paises con menos recuperados del mundo
+  * Comparativa de Colombia vs El Top de los 10 Países con menos recuperados del mundo
   ![cvm](images/cvm9.PNG)
   -------------------------------------------
   
@@ -67,5 +67,5 @@
   
 ## NOTEBOOKS, EMR, SPARK
 
-Para mas detalle acerca de las consultas, funciones y código de como se obtuvieron las graficas y visualizaciones ingresar al notebook:
+Para más detalle acerca de las consultas, funciones y código de cómo se obtuvieron las graficas y visualizaciones ingresar al notebook:
 [covid19mundovscolombia.ipynb](covid19mundovscolombia.ipynb)

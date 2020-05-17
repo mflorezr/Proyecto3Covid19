@@ -58,10 +58,7 @@
   
    * Distribucion de los casos por la atención actual
     ![col](images/co6.png)  
-    
-      
-   * Distribucion de los fallecidos por género
-    ![col](images/co4.png)
+
      
    * Curva por casos presentados cada mes(sin acumular casos)
     ![col](images/co7.png)
@@ -83,6 +80,9 @@
 		
    * Distribución de los estados de los pacientes contagiados
     ![col](images/co14.png)
+    
+   * Distribucion de los fallecidos por género
+    ![col](images/co4.png)
 		
    * Distribucion de los casos totales por género
     ![col](images/co5.png)

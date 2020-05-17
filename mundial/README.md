@@ -14,7 +14,7 @@
 ### Consultas:
 
 * 20 países con más casos confirmados
-![ww](images/20pmc.png)
+![ww](images/pmc.png)
 
 * 20 países con menos casos
 ![ww](images/pmec.png)

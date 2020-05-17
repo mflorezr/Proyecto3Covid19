@@ -84,11 +84,14 @@
 ![col](images/co5.png)
 ------------------------------------------
 * Casos reportados por edades
+------------------------------------------
 ![col](images/co10.png)
+------------------------------------------
 
 * Distribucion de los fallecidos por género
+------------------------------------------
 ![col](images/co4.png)
-
+------------------------------------------
 ## Notebook, EMR, Spark
 
 Para ver mas detalladamente las consultas, funciones, y el origen de las graficas y visualizaciones acceda al notebook:

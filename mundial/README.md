@@ -9,7 +9,7 @@
 ![ww](images/cs31.png)
 ![ww](images/cs32.png)
 
-## Procesamiento : Análisis exploratorio y descriptivo
+## Procesamiento: Análisis exploratorio y descriptivo
 
 ### Consultas:
 
@@ -52,7 +52,7 @@
 * Casos totales en el mundo por mes
 ![ww](images/mcxf.png)
 
-## Visualizacíon 
+## Visualización 
 
 **Casos Actuales en el mundo**
 

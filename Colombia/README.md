@@ -51,23 +51,22 @@
   ![col](images/c12.PNG)
   
 ## Visualizacíon 
-  
-  * Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
+
+* Casos por departamento: Totales(Naranja), Recuperacion(Verde) y Muertes(Rojos)
     ![col](images/co3.png)
     
     
-  
-  * Distribucion de los fallecidos por género
+* Distribucion de los fallecidos por género
     ![col](images/co4.png)
   
   
   
-  * Distribucion de los casos por la atención actual
+* Distribucion de los casos por la atención actual
     ![col](images/co6.png)
   
   
     
-  * Curva por casos presentados cada mes(sin acumular casos)
+* Curva por casos presentados cada mes(sin acumular casos)
     ![col](images/co7.png)
   
   
